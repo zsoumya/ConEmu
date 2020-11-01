@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <key name="Software">
 	<key name="ConEmu">
-		<key name=".Vanilla" modified="2020-10-11 19:42:23" build="201011">
+		<key name=".Vanilla" modified="2020-10-30 11:19:21" build="201011">
 			<value name="StartType" type="hex" data="02"/>
 			<value name="CmdLine" type="string" data=""/>
 			<value name="StartTasksFile" type="string" data=""/>
@@ -244,8 +244,8 @@
 			<value name="Cascaded" type="hex" data="01"/>
 			<value name="IntegralSize" type="hex" data="00"/>
 			<value name="WindowMode" type="dword" data="0000051f"/>
-			<value name="ConWnd X" type="long" data="1080"/>
-			<value name="ConWnd Y" type="long" data="432"/>
+			<value name="ConWnd X" type="long" data="840"/>
+			<value name="ConWnd Y" type="long" data="588"/>
 			<value name="LastMonitor" type="string" data="0,0,3840,2080"/>
 			<value name="ConWnd Width" type="dword" data="00000081"/>
 			<value name="ConWnd Height" type="dword" data="00000021"/>
@@ -755,6 +755,10 @@
 			<value name="AutoReloadEnvironment" type="hex" data="01"/>
 			<value name="StatusBar.Hide.InputGrouping" type="hex" data="00"/>
 			<value name="ResetTerminalConfirm" type="hex" data="01"/>
+			<value name="CmdLineHistory" type="multi">
+				<line data="{Cmd::cmd (Admin)}"/>
+				<line data="{Cmd::Yori (Admin)}"/>
+			</value>
 		</key>
 	</key>
 </key>
