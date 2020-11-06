@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <key name="Software">
 	<key name="ConEmu">
-		<key name=".Vanilla" modified="2020-10-30 11:19:21" build="201011">
+		<key name=".Vanilla" modified="2020-11-05 12:47:03" build="201101">
 			<value name="StartType" type="hex" data="02"/>
 			<value name="CmdLine" type="string" data=""/>
 			<value name="StartTasksFile" type="string" data=""/>
@@ -244,9 +244,9 @@
 			<value name="Cascaded" type="hex" data="01"/>
 			<value name="IntegralSize" type="hex" data="00"/>
 			<value name="WindowMode" type="dword" data="0000051f"/>
-			<value name="ConWnd X" type="long" data="840"/>
-			<value name="ConWnd Y" type="long" data="588"/>
-			<value name="LastMonitor" type="string" data="0,0,3840,2080"/>
+			<value name="ConWnd X" type="long" data="531"/>
+			<value name="ConWnd Y" type="long" data="426"/>
+			<value name="LastMonitor" type="string" data="0,0,3840,2070"/>
 			<value name="ConWnd Width" type="dword" data="00000081"/>
 			<value name="ConWnd Height" type="dword" data="00000021"/>
 			<value name="16bit Height" type="ulong" data="0"/>
@@ -658,8 +658,8 @@
 					<value name="Count" type="long" data="1"/>
 					<value name="Cmd1" type="string" data="ubuntu.exe"/>
 				</key>
-				<key name="Task7" modified="2020-10-11 19:37:39" build="201011">
-					<value name="Name" type="string" data="{Bash:Debian}"/>
+				<key name="Task7" modified="2020-11-05 12:47:03" build="201101">
+					<value name="Name" type="string" data="{Bash::Debian}"/>
 					<value name="Flags" type="dword" data="00000004"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
 					<value name="GuiArgs" type="string" data=""/>
