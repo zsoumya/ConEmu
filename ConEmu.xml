@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <key name="Software" modified="2020-11-08 01:43:06" build="201101">
 	<key name="ConEmu" modified="2020-11-08 01:43:06" build="201101">
-		<key name=".Vanilla" modified="2020-11-08 01:43:06" build="201101">
+		<key name=".Vanilla" modified="2020-11-11 09:33:36" build="201101">
 			<value name="Language" type="string" data="en"/>
 			<value name="StartType" type="hex" data="02"/>
 			<value name="CmdLine" type="string" data=""/>
@@ -142,8 +142,8 @@
 			<value name="Cascaded" type="hex" data="01"/>
 			<value name="IntegralSize" type="hex" data="00"/>
 			<value name="WindowMode" type="dword" data="0000051f"/>
-			<value name="ConWnd X" type="long" data="208"/>
-			<value name="ConWnd Y" type="long" data="122"/>
+			<value name="ConWnd X" type="long" data="83"/>
+			<value name="ConWnd Y" type="long" data="166"/>
 			<value name="LastMonitor" type="string" data="0,0,1707,920"/>
 			<value name="ConWnd Width" type="dword" data="00000070"/>
 			<value name="ConWnd Height" type="dword" data="00000020"/>
@@ -156,7 +156,7 @@
 			<value name="HideChildCaption" type="hex" data="01"/>
 			<value name="FocusInChildWindows" type="hex" data="01"/>
 			<value name="HideCaptionAlways" type="hex" data="01"/>
-			<value name="HideCaptionAlwaysFrame" type="hex" data="FF"/>
+			<value name="HideCaptionAlwaysFrame" type="hex" data="00"/>
 			<value name="HideCaptionAlwaysDelay" type="ulong" data="2000"/>
 			<value name="HideCaptionAlwaysDisappear" type="ulong" data="2000"/>
 			<value name="DownShowHiddenMessage" type="hex" data="00"/>
